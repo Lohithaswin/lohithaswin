@@ -35,7 +35,7 @@ A complete pipeline to train ML models for defect prediction on NASA datasets, h
 ## 📫 Connect with Me
 
 - 📧 Email: lohithaswinonline2005@gmail.com  
-- 🔗 LinkedIn: [www.linkedin.com/in/lohithaswin-v-23663b290](www.linkedin.com/in/lohithaswin-v-23663b290)  
+- 🔗 LinkedIn: www.linkedin.com/in/lohithaswin-v-23663b290 
 - 🐙 GitHub: [github.com/lohithaswin](https://github.com/lohithaswin)
 
 ---
