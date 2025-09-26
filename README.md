@@ -11,7 +11,7 @@ I'm a passionate software developer specializing in **Machine Learning**, **Comp
 - **Frameworks & Libraries:** PyTorch, OpenCV, React, Django  
 - **Tools:** Git, GitHub, Docker, Jupyter Notebook  
 - **Databases:** Oracle, MySQL  
-- **Other:** YOLOv5, YOLOv8, Static Code Analysis, REST APIs  
+- **Other:** YOLOv5, YOLOv8, REST APIs  
 
 ---
 
@@ -35,8 +35,7 @@ A complete pipeline to train ML models for defect prediction on NASA datasets, h
 ## 📫 Connect with Me
 
 - 📧 Email: lohithaswinonline2005@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/lohithaswin](https://linkedin.com/in/lohithaswin)  
-- 🌐 Blog: [dotnetrumbles.wordpress.com](https://dotnetrumbles.wordpress.com)  
+- 🔗 LinkedIn: [www.linkedin.com/in/lohithaswin-v-23663b290](www.linkedin.com/in/lohithaswin-v-23663b290)  
 - 🐙 GitHub: [github.com/lohithaswin](https://github.com/lohithaswin)
 
 ---
@@ -50,11 +49,6 @@ A complete pipeline to train ML models for defect prediction on NASA datasets, h
 
 ---
 
-## 💡 Fun Fact
-
-I enjoy combining research and real-world solutions — from predictive models that detect defects in code to AR/VR systems that create immersive experiences. Outside coding, I explore emerging technologies and contribute to open-source.
-
----
 
 ## 📌 Goals for 2025
 
