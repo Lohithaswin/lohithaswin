@@ -20,7 +20,7 @@ I'm a passionate software developer specializing in **Machine Learning**, **Comp
 ### 1. [Disaster Alert System](https://github.com/lohithaswin/disaster-alert-system)  
 A Python-based system for detecting people and animals in images/videos using YOLOv5/YOLOv8, updating an Oracle database, and sending alert messages. Includes model comparison and visualization tools.  
 
-### 2. [Bug Prediction & Code Quality Analysis](https://github.com/lohithaswin/bug-quality-prediction)  
+### 2. [Bug Prediction & Code Quality Analysis]([https://github.com/lohithaswin/bug-quality-prediction](https://github.com/Lohithaswin/Bug-Prediction))  
 A complete pipeline to train ML models for defect prediction on NASA datasets, handle class imbalance, and compute a Code Quality Score (0–100) per module. Includes optional GitHub API integration for commit-based behavioral metrics.  
 
 ---
