@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lohith Aswin
+# 👋 Hi, I'm Lohithaswin V
 
 Welcome to my GitHub profile!  
 I'm a passionate software developer specializing in **Machine Learning**, **Computer Vision**, **Code Quality Analysis**, and **Full-Stack Development**. I love building projects that combine research, real-world applications, and clean engineering.
@@ -17,7 +17,7 @@ I'm a passionate software developer specializing in **Machine Learning**, **Comp
 
 ## 🚀 Featured Projects
 
-### 1. [Disaster Alert System](https://github.com/lohithaswin/disaster-alert-system)  
+### 1. [Disaster Alert System](https://github.com/Lohithaswin/Life-detection-in-Disaster-zones)  
 A Python-based system for detecting people and animals in images/videos using YOLOv5/YOLOv8, updating an Oracle database, and sending alert messages. Includes model comparison and visualization tools.  
 
 ### 2. [Bug Prediction & Code Quality Analysis](https://github.com/Lohithaswin/Bug-Prediction)  
